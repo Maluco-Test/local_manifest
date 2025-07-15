@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="me" fetch="https://github.com/Maluco-Test" />
+
+    <!-- Device-Tree e Device-Common -->
+    <project path="device/motorola/bangkk" name="android_device_java-twrp" remote="me" revision="Recovery-11"  />
+
+
+</manifest>
