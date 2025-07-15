@@ -3,7 +3,7 @@
     <remote name="me" fetch="https://github.com/Maluco-Test" />
 
     <!-- Device-Tree e Device-Common -->
-    <project path="device/motorola/bangkk" name="android_device_java-twrp" remote="me" revision="Recovery-11"  />
+    <project path="device/motorola/bangkk" name="android_device_java-twrp" remote="me" revision="LOS16"  />
 
 
 </manifest>
