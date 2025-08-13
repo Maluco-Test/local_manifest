@@ -3,7 +3,9 @@
     <remote name="me" fetch="https://github.com/Maluco-Test" />
 
     <!-- Device-Tree e Device-Common -->
-    <project path="device/motorola/bangkk" name="android_device_java-twrp" remote="me" revision="LOS16"  />
+    <project path="device/sasmung/a15x" name="android_device_samsung_a15x" remote="me" revision="main"  />
+    <project path="vendor/sasmung/a15x" name="android_vendor_samsung_a15x" remote="me" revision="main"  />
+
 
 
 </manifest>
